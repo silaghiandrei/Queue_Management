@@ -1,0 +1,308 @@
+Time 0
+Waiting queue: (0, 4, 2) (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 1
+Waiting queue: (0, 4, 2) (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 2
+Waiting queue: (0, 4, 2) (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 3
+Waiting queue: (0, 4, 2) (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 4
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: (0, 4, 2) 
+Queue: empty
+
+Time 5
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: (0, 4, 1) 
+Queue: empty
+
+Time 6
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 7
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 8
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 9
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 10
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 11
+Waiting queue: (1, 12, 4) (2, 16, 2) (3, 16, 3) 
+Queue: empty
+Queue: empty
+
+Time 12
+Waiting queue: (2, 16, 2) (3, 16, 3) 
+Queue: (1, 12, 4) 
+Queue: empty
+
+Time 13
+Waiting queue: (2, 16, 2) (3, 16, 3) 
+Queue: (1, 12, 3) 
+Queue: empty
+
+Time 14
+Waiting queue: (2, 16, 2) (3, 16, 3) 
+Queue: (1, 12, 2) 
+Queue: empty
+
+Time 15
+Waiting queue: (2, 16, 2) (3, 16, 3) 
+Queue: (1, 12, 1) 
+Queue: empty
+
+Time 16
+Waiting queue: 
+Queue: (2, 16, 2) 
+Queue: (3, 16, 3) 
+
+Time 17
+Waiting queue: 
+Queue: (2, 16, 1) 
+Queue: (3, 16, 2) 
+
+Time 18
+Waiting queue: 
+Queue: empty
+Queue: (3, 16, 1) 
+
+Time 19
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 20
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 21
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 22
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 23
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 24
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 25
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 26
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 27
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 28
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 29
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 30
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 31
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 32
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 33
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 34
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 35
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 36
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 37
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 38
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 39
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 40
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 41
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 42
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 43
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 44
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 45
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 46
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 47
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 48
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 49
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 50
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 51
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 52
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 53
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 54
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 55
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 56
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 57
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 58
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 59
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Time 60
+Waiting queue: 
+Queue: empty
+Queue: empty
+
+Average waiting time 2.75
+Average service time 2.75
+Peak hour 16
